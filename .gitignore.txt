@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and
+# common output folders
+[Bb]in/
+[Oo]bj/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.Designer.cs
+*.g.cs
+*.g.i.cs
